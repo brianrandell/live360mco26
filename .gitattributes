@@ -1,0 +1,47 @@
+# Let Git detect text files and normalize them to LF in the repository.
+# Working-tree line endings follow each platform's settings unless overridden below.
+* text=auto
+
+# Files that must always be LF, even on Windows
+*.sh    text eol=lf
+*.bash  text eol=lf
+*.zsh   text eol=lf
+
+# Files that must always be CRLF, even on macOS
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+*.sln   text eol=crlf
+
+# Windows PowerShell 5.1 handles LF fine, but CRLF is the safest choice
+*.ps1   text eol=crlf
+*.psm1  text eol=crlf
+*.psd1  text eol=crlf
+
+# Binary files: never convert line endings or diff as text
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.pdf   binary
+*.zip   binary
+*.7z    binary
+*.gz    binary
+*.tgz   binary
+*.docx  binary
+*.xlsx  binary
+*.pptx  binary
+*.ppt   binary
+*.key   binary
+*.mp4   binary
+*.mov   binary
+*.mp3   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
+*.dll   binary
+*.exe   binary
+*.pdb   binary
+*.snk   binary

@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+.nfs*
+
+# Editor swap, backup, and temp files
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+*.tmp
+*.temp
+.#*
+\#*#
+
+# Microsoft Office lock/temp files
+~$*
+
+# Logs
+*.log
