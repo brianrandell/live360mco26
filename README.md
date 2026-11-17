@@ -14,3 +14,9 @@ Each session and workshop has its own folder with session details, demos, and re
 | [VST13](VST13/) | Agentic DevOps with GitHub and Azure DevOps: What Actually Works in 2026 | Tue Nov 17, 3:00pm–4:15pm | [Abstract](https://live360events.com/events/orlando-2026/sessions/tuesday/vst13-agentic-devops.aspx) |
 | [AIH04](AIH04/) | Local-First AI Development: Sovereignty, Silicon, and the Private Dev Loop | Thu Nov 19, 9:30am–10:45am | [Abstract](https://live360events.com/events/orlando-2026/sessions/thursday/aih04-local-ai-dev.aspx) |
 | [VSF02](VSF02/) | Workshop: Secure AI Engineering and DevOps for .NET Developers on Azure | Fri Nov 20, 8:00am–5:00pm | [Abstract](https://live360events.com/events/orlando-2026/sessions/friday/vsf02-workshop-azure.aspx) |
+
+## Slides
+
+All slides will be available on the conference web site by the end of the week. Please visit the individual session abstract page and look for the PDF symbol.
+
+![Session abstract page header with the PDF symbol at the top right](assets/slides-pdf-symbol.png)
