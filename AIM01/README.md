@@ -16,3 +16,7 @@ All slides will be available on the conference web site by the end of the week. 
 - [Azure-Samples/azure-sql-db-ai-samples-search](https://github.com/Azure-Samples/azure-sql-db-ai-samples-search)
 
 > More demos and references are coming soon.
+
+## License
+
+Slides are hosted on the Live! 360 site and licensed CC BY 4.0, as noted in the deck; code in this repo is MIT. See [LICENSE](../LICENSE).
